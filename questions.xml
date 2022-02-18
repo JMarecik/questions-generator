@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <q cat="general">Tell me about yourself.</q>
+  <q cat="general">Have you done anything exciting lately?</q>
+  <q cat="general">What made you smile today?</q>
+  <q cat="relations">Have you ever taken part in a debate? Did you have to defend an opinion that wasn't your own? If so, was it easy? Did it make you re-evaluate your own views?</q>
+</questions>
